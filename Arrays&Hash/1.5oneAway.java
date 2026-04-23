@@ -15,7 +15,7 @@ Patterns: Two Pointer
 */
 
 
-public class oneAway {
+class oneAway {
     boolean isEdited(String s1,String s2){
 
        

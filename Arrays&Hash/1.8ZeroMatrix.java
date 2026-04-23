@@ -4,7 +4,7 @@
 //Patterns: Matrix Traversal , Mark First , Modify Later, State Tracking
 
 
-public class ZeroMatrix {
+ class ZeroMatrix {
 
     void zeroMatrix(int[][] matrix) {
         int rowsCount = matrix.length;

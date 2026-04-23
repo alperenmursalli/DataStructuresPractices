@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.HashMap;
 
-public class checkPermutation {
+ class checkPermutation {
     boolean isPermutation(String s1, String s2){
         Map<Character, Integer> map = new HashMap<>();
         if (s1.length()!=s2.length()){

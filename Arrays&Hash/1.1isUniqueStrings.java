@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.Arrays;
 
-public class isUniqueStrings {
+ class isUniqueStrings {
     /*
     boolean isUniqueStrings(String s){
         Set<Character> set = new HashSet<>();
