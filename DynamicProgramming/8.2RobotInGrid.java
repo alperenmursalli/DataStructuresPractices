@@ -31,7 +31,7 @@ class RobotInGrid {
             {0, 0, 0}
         };
 
-        System.out.println("Grid with path: " + robotInGrid.hasPath(gridWithPath));
+        System.out.println("Grid wiıth path: " + robotInGrid.hasPath(gridWithPath));
         System.out.println("Blocked grid: " + robotInGrid.hasPath(blockedGrid));
     }
 
