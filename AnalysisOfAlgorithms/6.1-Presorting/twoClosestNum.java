@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class twoClosestNum {
     /*
+    TWO CLOSEST NUM
      * Problem:
      * Find the distance between the two closest numbers in an array of n numbers.
      * The distance between x and y is |x - y|.
